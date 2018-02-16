@@ -1,0 +1,31 @@
+{
+  "exportId" : "_gPpkYb1Rce_BUKJQLGEaw",
+  "name" : "Kudos",
+  "forcePrivateResponse" : false,
+  "isDataType" : true,
+  "dataTypeConfig" : {
+    "fields" : [ {
+      "name" : "recipient",
+      "fieldType" : {
+        "exportId" : "Text",
+        "name" : "Text"
+      },
+      "isLabel" : false
+    }, {
+      "name" : "giver",
+      "fieldType" : {
+        "exportId" : "Text",
+        "name" : "Text"
+      },
+      "isLabel" : false
+    }, {
+      "name" : "timestamp",
+      "fieldType" : {
+        "exportId" : "Number",
+        "name" : "Number"
+      },
+      "isLabel" : false
+    } ],
+    "usesCode" : false
+  }
+}

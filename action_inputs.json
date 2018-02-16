@@ -1,0 +1,11 @@
+[ {
+  "exportId" : "nmhu4vUgSbecgGe8Iws5Hw",
+  "name" : "name",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "To whom do you want to give kudos?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+} ]

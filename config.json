@@ -1,0 +1,8 @@
+{
+  "name" : "Kudos",
+  "exportId" : "gvT2OnDYSH-r5KHRtQ19zA",
+  "icon" : "🙏",
+  "requiredAWSConfigs" : [ ],
+  "requiredOAuth2ApiConfigs" : [ ],
+  "requiredSimpleTokenApis" : [ ]
+}
