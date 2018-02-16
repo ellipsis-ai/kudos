@@ -1,0 +1,1 @@
+@{successResult.giver} has given kudos to @{successResult.recipient}. @{successResult.recipient}’s score increased to {successResult.count}.
