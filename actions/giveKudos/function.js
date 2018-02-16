@@ -3,7 +3,6 @@ function(name, ellipsis) {
 const storageApi = new EllipsisApi(ellipsis).storage;
 
 const giver = ellipsis.userInfo.userName;
-console.log(giver);
 const recipient = name.replace(/^@/, "");
 storageApi.query({
   query: `
