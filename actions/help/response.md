@@ -1,0 +1,1 @@
+Give kudos to your colleagues by saying `...kudos to @someone` or `@someone++`. Your bot will keep a tally of how many times each person has received kudos.
