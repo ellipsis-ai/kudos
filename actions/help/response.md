@@ -1,1 +1,1 @@
-Give kudos to your colleagues by saying `...kudos to @someone` or `@someone++`. Your bot will keep a tally of how many times each person has received kudos.
+Give kudos to your colleagues by saying `@{ellipsis.teamInfo.botName} kudos to @someone` or `@someone++`. Your bot will keep a tally of how many times each person has received kudos.
