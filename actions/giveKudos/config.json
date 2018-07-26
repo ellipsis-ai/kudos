@@ -2,5 +2,7 @@
   "exportId" : "yCV8woGtTMics8yRfvtK2A",
   "name" : "giveKudos",
   "forcePrivateResponse" : false,
-  "isDataType" : false
+  "canBeMemoized" : false,
+  "isDataType" : false,
+  "isTest" : false
 }

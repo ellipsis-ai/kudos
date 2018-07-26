@@ -2,7 +2,9 @@
   "exportId" : "_gPpkYb1Rce_BUKJQLGEaw",
   "name" : "Kudos",
   "forcePrivateResponse" : false,
+  "canBeMemoized" : false,
   "isDataType" : true,
+  "isTest" : false,
   "dataTypeConfig" : {
     "fields" : [ {
       "name" : "recipient",
